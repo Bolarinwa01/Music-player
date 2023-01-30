@@ -1,1 +1,1 @@
-# Portfolio
+Welcome to my music page, where you can experience the power of sound and technology combined. As a web developer, I have had the opportunity to work on various music projects, creating visually stunning and interactive websites that truly bring the music to life. On this page, you can explore some of my past work and see how I have integrated design and functionality to enhance the user experience. Let the music play!
